@@ -1,0 +1,42 @@
+.card {
+
+	display: flex;
+	justify-content: space-around;
+	margin: 10px;
+	align-items: center;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	border-radius: 6px;
+	padding: 25px;
+	flex-basis: 250px;
+	flex-grow: 1;
+}
+
+.card img {
+
+	width: 140px;
+	height: 150px;
+	padding: 8px;
+	padding-left: 0px;
+	border-radius: 6px;
+
+}
+
+.cards {
+
+	display: flex;
+	flex-wrap: wrap;
+	
+	
+
+}
+
+.cards h3 {
+
+	font-weight: lighter;
+
+}
+
+#shopnow {
+
+	margin-top: 100px;
+}
